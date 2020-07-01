@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Na8gFrwdVGfNSL6eVgGfN/IxSz5QP7WY1mpquhwCrH/NCd7MclOiAVJ5/C/OVAq566C9R3/Q7RcMnmf8w//JXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nahush\\source\\repos\\webapi\\webapi\\webapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nahush\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Nahush\\.nuget\\packages\\system.codedom\\4.7.0\\system.codedom.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
